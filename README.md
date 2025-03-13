@@ -116,10 +116,10 @@ Contributions are welcome! Follow these steps to contribute:
 ```   
 5. Open a Pull Request in the original repository.
 
-### 🧑‍💻 About the Author
-### 👤 Abinayaa Arunmozhi
-### 📧 Email: abinayaarun.in@gmail.com
-### 🔗 GitHub: AbinayaaArunmozhi
+**🧑‍💻 About the Author**
+**👤 Abinayaa Arunmozhi**
+**📧 Email: abinayaarun.in@gmail.com**
+***🔗 GitHub: AbinayaaArunmozhi**
 
 ## 🎉 Thank You for Checking Out This Project! 🚀
 If you like this project, star ⭐ the repository and feel free to contribute!
